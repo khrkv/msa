@@ -1,0 +1,6 @@
+/terraform.tf*
+/.terraform.*
+/join.sh
+/.terraform/
+/.idea/
+
